@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li {
+  margin: 10px;
+  text-align: center;
+}
+
+img {
+  border: 1px solid #ccc;
+}
+

@@ -1,0 +1,22 @@
+img {
+  margin: 10px; /* Margem de 10 pixels em todos os lados */
+}
+img {
+  display: block; /* Transforma a imagem em um elemento de bloco */
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
+.container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+img {
+  width: 10%;
+  float: left; /* Alinha as imagens à esquerda */
+  margin-right: 0 px;
+}
+
+p {
+  clear: both; /* Limpa os floats para que o texto comece em uma nova linha */
+}
+

@@ -1,0 +1,20 @@
+/* styles.css *
+#cabecalho {
+  background-color: #333;
+  color: blue;
+  text-align: center;
+  padding: 20px;
+}
+
+#conteudo {
+  padding: 20px;
+}
+
+#rodape {
+  background-color: blue;
+  text-align: center;
+  padding: 10px;
+}
+/
+
+
